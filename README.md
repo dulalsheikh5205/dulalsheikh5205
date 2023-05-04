@@ -39,8 +39,9 @@ Office Application: Microsoft Office (Word, Excel, PowerPoint).
 - 📫 How to reach me:       Email: dulalsheikh5205@gmail.com Github:https://github.com/dulalsheikh5205/ 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true) 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dulalsheikh5205/)](https://github.com/anuraghazra/github-readme-stats)
 
