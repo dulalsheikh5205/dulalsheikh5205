@@ -25,7 +25,7 @@ Skills: Full Stack Web Developer || Core PHP || Laravel Framework  ||
 - 🔭 I’m currently working on Laravel Framework 
 - 🌱 I’m currently learning React JS 
 - 👯 I’m looking to collaborate on github 
-- 📫 How to reach me:       Email:: dulalsheikh5205@gmail.com Github:https:: //github.com/dulalsheikh5205/ 
+- 📫 How to reach me:       Email: dulalsheikh5205@gmail.com Github:https://github.com/dulalsheikh5205/ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/dulalsheikh5205/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dulal-sheikh-79654325b//)  
