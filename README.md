@@ -13,14 +13,25 @@ I am an enthusiast and passionate 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲�
 My current passion is Backend Core PHP and Laravel Framework and Familiar with Git and GitHub. I focused on achieving my goals along with trying to seek out ways during which to develop my skills and learn new things.
 
 ◾Technical skills:
-Front-End: HTML, CSS, Bootstrap, JavaScript, ES6, ReactJs, Bootstrap, jQuery, Ajax, Json.
+Front-End: HTML, CSS, Bootstrap, JavaScript, ES6, ReactJs, jQuery, Ajax, Json.
 Back-End: PHP Core, Laravel Framework, CodeIgniter4, Rest API, Context API. 
 Database: Mysql
 IDE/Editor: Visual Studio, PhpStorm.
 Version control system: Git, Github.
 Office Application: Microsoft Office (Word, Excel, PowerPoint).
 
-Skills: Full Stack Web Developer || Core PHP || Laravel Framework  || 
+
+👨‍💻 Skills & Experiance:
+✅ Core PHP
+✅ Laravel Framework
+✅ JavaScript
+✅ HTML5 / CSS3 / Bootstrap
+✅ jQuery 
+✅ Database: Mysql
+✅ Version control system: Git, Github.
+✅ CodeIgniter
+✅ React JS / Tailwind CSS (currently learning)
+
 
 - 🔭 I’m currently working on Laravel Framework 
 - 🌱 I’m currently learning React JS 
