@@ -36,7 +36,7 @@ Office Application: Microsoft Office (Word, Excel, PowerPoint). </br>
 - 🔭 I’m currently working on Laravel Framework 
 - 🌱 I’m currently learning React JS 
 - 👯 I’m looking to collaborate on github 
-- 📫 How to reach me:       Email: dulalsheikh5205@gmail.com </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github:https://github.com/dulalsheikh5205/ 
+- 📫 How to reach me: &nbsp; Email: dulalsheikh5205@gmail.com </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Github:https://github.com/dulalsheikh5205/ 
 
 
 
