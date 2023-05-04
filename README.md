@@ -42,8 +42,6 @@ Office Application: Microsoft Office (Word, Excel, PowerPoint). </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
 
-☕ Connect with me!
- github linkedin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dulalsheikh5205/)](https://github.com/anuraghazra/github-readme-stats)
 
