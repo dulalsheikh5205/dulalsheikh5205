@@ -21,7 +21,7 @@ Version control system: Git, Github. </br>
 Office Application: Microsoft Office (Word, Excel, PowerPoint). </br>
 
 
-👨‍💻 Skills & Experiance: </br></br>
+👨‍💻 Skills & Experiance: </br>
 ✅ Core PHP </br>
 ✅ Laravel Framework </br>
 ✅ JavaScript </br>
