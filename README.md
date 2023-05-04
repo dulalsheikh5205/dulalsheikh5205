@@ -39,7 +39,7 @@ Office Application: Microsoft Office (Word, Excel, PowerPoint).
 - 📫 How to reach me:       Email: dulalsheikh5205@gmail.com Github:https://github.com/dulalsheikh5205/ 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/dulalsheikh5205/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dulal-sheikh-79654325b//)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dulalsheikh5205/)](https://github.com/anuraghazra/github-readme-stats)
 
