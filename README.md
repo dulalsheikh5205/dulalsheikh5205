@@ -4,8 +4,8 @@
 
 ### Hi there 👋, My name is Dulal Sheikh </br>
 👑 I am Web Developer </br>
-🖊️ Love to write code </br>
-🎤 Like to learn new things </br>
+💻 Love to write code </br>
+🖊️ Like to learn new things </br>
 
 
 I am an enthusiast and passionate 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. I have been learning Web Development. I am looking forward to sharing my skills and knowledge in real-life projects. So that I can grow my skills more and work with Professionals. </br>
@@ -36,7 +36,7 @@ Office Application: Microsoft Office (Word, Excel, PowerPoint). </br>
 - 🔭 I’m currently working on Laravel Framework 
 - 🌱 I’m currently learning React JS 
 - 👯 I’m looking to collaborate on github 
-- 📫 How to reach me:       Email: dulalsheikh5205@gmail.com </br> &nbsp;&nbsp;&nbsp;Github:https://github.com/dulalsheikh5205/ 
+- 📫 How to reach me:       Email: dulalsheikh5205@gmail.com </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github:https://github.com/dulalsheikh5205/ 
 
 
 
