@@ -4,7 +4,7 @@
 
 ### Hi there 👋, My name is Dulal Sheikh </br>
 👑 I am Web Developer </br>
-💻 Love to write code </br>
+💻 Passionate to write code </br>
 🖊️ Like to learn new things </br>
 
 
